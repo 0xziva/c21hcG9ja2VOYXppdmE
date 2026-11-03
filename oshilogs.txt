@@ -12,47 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naziva =====
-[1]Naziva      |08:32:43 | 02-11-2026| login OK @naziivaa | score=2670 rank=2924
-[1]Naziva      |08:32:43 | 02-11-2026| serverTime=2026-11-02T08:32:42.000Z local=2026-11-02T08:32:43.303Z
+[1]Naziva      |08:46:00 | 03-11-2026| login OK @naziivaa | score=2750 rank=2825
+[1]Naziva      |08:46:00 | 03-11-2026| serverTime=2026-11-03T08:46:00.000Z local=2026-11-03T08:46:00.839Z
 --> [1]Naziva menjalankan: Claim Daily
-[1]Naziva      |08:32:48 | 02-11-2026| daily: OK +10 poin score=2680
---> [1]Naziva menjalankan: Auto All Tasks (7 pending)
-[1]Naziva      |08:32:51 | 02-11-2026| [1/7] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172709228029268
-[1]Naziva      |08:32:51 | 02-11-2026| delay 10s...
-[1]Naziva      |08:33:03 | 02-11-2026| [2/7] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172824461443126
-[1]Naziva      |08:33:03 | 02-11-2026| delay 10s...
-[1]Naziva      |08:33:15 | 02-11-2026| [3/7] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172823285369996
-[1]Naziva      |08:33:15 | 02-11-2026| delay 10s...
-[1]Naziva      |08:33:27 | 02-11-2026| [4/7] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172617642801179
-[1]Naziva      |08:33:27 | 02-11-2026| delay 10s...
-[1]Naziva      |08:33:40 | 02-11-2026| [5/7] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172679148970872
-[1]Naziva      |08:33:40 | 02-11-2026| delay 10s...
-[1]Naziva      |08:33:55 | 02-11-2026| [6/7] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172951094763895
-[1]Naziva      |08:33:55 | 02-11-2026| delay 10s...
-[1]Naziva      |08:34:07 | 02-11-2026| [7/7] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211689924890218 | proof=https://x.com/naziivaa/status/2117172803381020837
-[1]Naziva      |08:34:07 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naziva      |08:34:11 | 02-11-2026| [1/1] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7f765e65-3ff5-4d7f-a39f-7884dc311eb3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116899248902185 | proof=https://x.com/naziivaa/status/2117172816784710440
+[1]Naziva      |08:46:02 | 03-11-2026| daily: OK +10 poin score=2760
+--> [1]Naziva menjalankan: Auto All Tasks (2 pending)
+[1]Naziva      |08:46:04 | 03-11-2026| [1/2] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/naziivaa/status/2117538232959884400
+[1]Naziva      |08:46:04 | 03-11-2026| delay 10s...
+[1]Naziva      |08:46:17 | 03-11-2026| [2/2] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/naziivaa/status/2117538363963731736
+[1]Naziva      |08:46:17 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naziva      |08:46:18 | 03-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/naziivaa/status/2117538463887167076
 --> [1]Naziva menjalankan: Watch Anime
-[1]Naziva      |08:34:12 | 02-11-2026| watch: semua video sudah completed
+[1]Naziva      |08:46:19 | 03-11-2026| watch: semua video sudah completed
 --> [1]Naziva menjalankan: Read Article
-[1]Naziva      |08:34:14 | 02-11-2026| news: 33/34 artikel selesai dibaca
-[1]Naziva      |08:34:14 | 02-11-2026| mint eligibility: {"userId":"1717290192095350784","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nazivamelinda","status":"submitted","revision":"b51e7e7e-c295-403f-a179-ac89df2e
-[1]Naziva      |08:34:22 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
+[1]Naziva      |08:46:20 | 03-11-2026| news: 34/34 artikel selesai dibaca
+[1]Naziva      |08:46:21 | 03-11-2026| mint eligibility: {"userId":"1717290192095350784","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nazivamelinda","status":"submitted","revision":"b51e7e7e-c295-403f-a179-ac89df2e
+[1]Naziva      |08:46:21 | 03-11-2026| news: semua artikel sudah dibaca
 --> [1]Naziva menjalankan: Quiz Anime
 --> [1]Naziva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naziva      |08:34:35 | 02-11-2026| music: kedua misi sudah tercapai, stop
-[1]Naziva      |08:34:36 | 02-11-2026| mission music-listens-10: sudah diklaim
-[1]Naziva      |08:34:36 | 02-11-2026| mission music-minutes-30: sudah diklaim
-[1]Naziva      |08:34:36 | 02-11-2026| mission anime-completed-3: sudah diklaim
+[1]Naziva      |08:46:23 | 03-11-2026| music: kedua misi sudah tercapai, stop
+[1]Naziva      |08:46:23 | 03-11-2026| mission music-listens-10: sudah diklaim
+[1]Naziva      |08:46:23 | 03-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naziva      |08:46:23 | 03-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naziva menjalankan: Claim Missions
-[1]Naziva      |08:34:39 | 02-11-2026| mission music-listens-10: sudah diklaim
-[1]Naziva      |08:34:39 | 02-11-2026| mission music-minutes-30: sudah diklaim
-[1]Naziva      |08:34:39 | 02-11-2026| mission anime-completed-3: sudah diklaim
+[1]Naziva      |08:46:24 | 03-11-2026| mission music-listens-10: sudah diklaim
+[1]Naziva      |08:46:24 | 03-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naziva      |08:46:24 | 03-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naziva menjalankan: Check Eligibility
 
 --- eligibility [1]Naziva ---
-  @naziivaa | score=2670 rank=2924
-  tasks    [##########----------] 7/14
+  @naziivaa | score=2750 rank=2825
+  tasks    [################----] 8/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naziva menjalankan: Read Manga
-[1]Naziva      |08:34:44 | 02-11-2026| manga: 0/13 chapter belum completed
+[1]Naziva      |08:46:30 | 03-11-2026| manga: 0/13 chapter belum completed
 --> [1]Naziva menjalankan: Get Gift
-[1]Naziva      |08:34:46 | 02-11-2026| gift: 3/9 belum diterima
-[1]Naziva      |08:34:48 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Naziva      |08:34:51 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Naziva      |08:34:54 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naziva      |08:46:31 | 03-11-2026| gift: 3/9 belum diterima
+[1]Naziva      |08:46:32 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naziva      |08:46:34 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naziva      |08:46:37 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Naziva menjalankan: Setup Profile
-[1]Naziva      |08:34:56 | 02-11-2026| profile: bio="https://x.com/naziivaa" fav=yuki rewardAt=1791688020
-[1]Naziva      |08:34:56 | 02-11-2026| profile: bonus sudah diklaim, skip
+[1]Naziva      |08:46:40 | 03-11-2026| profile: bio="https://x.com/naziivaa" fav=yuki rewardAt=1791688020
+[1]Naziva      |08:46:40 | 03-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Naziva menjalankan: Bind Wallet
-[1]Naziva      |08:34:57 | 02-11-2026| wallet: sudah terikat 92UffM1qd6... (solana)
+[1]Naziva      |08:46:40 | 03-11-2026| wallet: sudah terikat 92UffM1qd6... (solana)
 
 == RINGKASAN ==
-- Naziva: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Naziva: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
